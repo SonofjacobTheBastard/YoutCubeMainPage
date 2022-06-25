@@ -1,0 +1,9 @@
+.MiniSideGuide {
+    margin-top: 3%;
+    display: inline-block;
+    position:fixed;
+    width: 15%;
+}
+
+.MiniSideGuide > * {
+}
